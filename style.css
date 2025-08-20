@@ -483,9 +483,8 @@ span {
     }
 
     .home {
-        flex-direction: column; /* Stack home content vertically */   
-        margin-top: 20px;
-        height:auto;
+        flex-direction: column; /* Stack home content vertically */  
+        height: auto;
     }
 
     .home-content h1 {
